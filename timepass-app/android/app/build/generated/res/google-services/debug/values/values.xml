@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">262634270025-uvqr0ht2p8meua3km4e859eevgq84jrv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">262634270025</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0q04IEK78SXO8OxPqK5nTmOqCT0HSxcY</string>
+    <string name="google_app_id" translatable="false">1:262634270025:android:5fc8b9f05fdf3a64aafe98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0q04IEK78SXO8OxPqK5nTmOqCT0HSxcY</string>
+    <string name="google_storage_bucket" translatable="false">timepass-c8588.appspot.com</string>
+    <string name="project_id" translatable="false">timepass-c8588</string>
+</resources>

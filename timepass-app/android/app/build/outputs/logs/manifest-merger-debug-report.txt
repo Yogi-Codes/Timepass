@@ -1,0 +1,687 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\e3d217a6614bb9d43ab7e5a70bd93a70\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\544583cf068f03836bb4ed8208418dab\transformed\jetified-flipper-fresco-plugin-0.182.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_firestore] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:react-native-google-signin_google-signin] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-picker_picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-linear-gradient] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-webrtc] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-webrtc\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.72.3] C:\Users\ANIK\.gradle\caches\transforms-3\d413042d1d0663aba1135e1de16a95b7\transformed\jetified-react-android-0.72.3-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.72.3] C:\Users\ANIK\.gradle\caches\transforms-3\e5c17a7e7a6f6d872e445b4365a32033\transformed\jetified-hermes-android-0.72.3-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-sound] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-sound\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\41df1ae168f91019c8ea643f78699ed9\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\700934fef40f5213293dababfaa57397\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ANIK\.gradle\caches\transforms-3\97f58f567dfe077512518c924b6666cf\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\623ef545ac26ce63f31042fea396955c\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\0996cbdfd102f644f14e95ff57717cfc\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\03f2cea3c61a6509ffac8b29ab7a141f\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\ANIK\.gradle\caches\transforms-3\42e4ca7bcdc1555a27aa6b84c80e8045\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\ANIK\.gradle\caches\transforms-3\4aa60574917425a61c8ef31398a20a3b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\c454a9c0227ab34d0fc8ee22903799ba\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\1fd684d842628a90cd10f10fff241e7f\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\ANIK\.gradle\caches\transforms-3\f7b4f4c44622cc68c4fd2d995dd7556b\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6f42b7c4f6593b6720349c2b327aeadc\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\539edcb1e24364ba59858b14c57d30b0\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6ed57ec9c95b7473105a8eac92431f94\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\86ef57b607e41f7ba1bf292ee6e6a225\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ANIK\.gradle\caches\transforms-3\24d84b4f5f11961ec01437302ef28b1b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\a78aa844e76c613b61967d27e5ebf3df\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ANIK\.gradle\caches\transforms-3\b66ccc96e0b19d4ffac18593158508df\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\ANIK\.gradle\caches\transforms-3\3fc58413a63654da952a1630db7dbd77\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\5fae5069d08d9e20121272558ca912fc\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\0f5351c3d33d015b158a3e7511093112\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\2499af5f47b65111aaf37cd4adde83f6\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\456fea879b7be6ee59de0fad83781995\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\30433eac95a8e03072e5844706d1a5b3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\9c4a9d0313056964ee89e5fe6b42fdfb\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\f9edcb92cb77b1d55b51c31b0e087eff\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\6b2e2a96814e48eccdb9787e5893c863\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\cb0f7670ab87d2fd5a401724fa81fbb6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\5e2d0f6606186133ff2b13f781024fad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\fecb3cb4ed3d03386eedd13390340f00\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\a76706f1eee893b59ed768ca881f148d\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\14dd76e86f7f432e11f5edd00531dcd8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\3edef8ede495509961d8e06a3aeb9bd0\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\8731d084f4964cd4084b38732d16379d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\de1b0fbc31e38572f445abe845c59369\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\c27387fc8b8dd84d83f00f3157c93cb5\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\115944650929fad545d259dca465a1f8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\69c315af4107974aa1837f56037d0973\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\1247af8f65f878a93876d82fc9009468\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\bd617607152d7a3799a0ce012b2710e2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\7c3b7199e48f26d61668183f25a6e03a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\825ec96a6ae3bf8c8b28c098326b2e26\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\6626303304cbf455decad1b7ee1967ed\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\43176a2f4941989104de9552cba9dd3a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\7eab592117953120386b3a9d75caebd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\4d0fa801bcb238057513b7cb5897d0d4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\ac2aacb2417f67365dd8c2347bdad458\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\85682feb942b4ecdc996245e418ad0df\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\28abe0e1bdf336e66e5c3ab753afb25d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] C:\Users\ANIK\.gradle\caches\transforms-3\52ed39710d4c5e27c99eea93ec0960cb\transformed\jetified-openssl-1.1.1l-beta-1\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\ANIK\.gradle\caches\transforms-3\b6d54f62898470ce1b4cb44bab7860c5\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\29cb8ab9b52044548f4b970cd7c8c384\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\a6cee3fe74bf5a9ff0e284d54297c91b\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\ac5a3bea1fc37bc87cb75af7c97eaf85\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\24e0e565b3ae8d76d00039b0ac7b088e\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\6a1c3bb7459353018623775db1db642c\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\14b25c51de19223f937bb74f5492d88f\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\97696afe983eee729cd34530f6f39c68\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\d92a3733a31ea992ef33fd78d68f3a6e\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\8eff372b4f74f31bd21a8866b9407e08\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\b7d0724bdfe5ac96962f178506c5a6c4\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\f96be219f2766f23ad2044ac04f7487c\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\73628ebfa5bb715ee7cd159ee46f44f1\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\6437b8b5ce6ac8abf72a82506c4f5d3a\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\ANIK\.gradle\caches\transforms-3\932266a9d83e1f2cf957579d084c5058\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\e125eee46a8febe3aaac8c4045774d98\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\41c5b3e4da4b0c027485820cc4debd9d\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.jitsi:webrtc:111.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\320804d9745946e9f2cf40cc484b9917\transformed\jetified-webrtc-111.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\fb4264381574d9866f8c03c07966d376\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\74624a99ffcdec55d0dd7e0e89475f8c\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\28149ef9338a3fbb0af8cb8a1e4a6786\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ANIK\.gradle\caches\transforms-3\97f58f567dfe077512518c924b6666cf\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ANIK\.gradle\caches\transforms-3\97f58f567dfe077512518c924b6666cf\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#com.google.android.gms.auth.permission.GOOGLE_SIGN_IN
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:4:5-93
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:4:22-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ANIK\.gradle\caches\transforms-3\97f58f567dfe077512518c924b6666cf\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ANIK\.gradle\caches\transforms-3\97f58f567dfe077512518c924b6666cf\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\ANIK\.gradle\caches\transforms-3\932266a9d83e1f2cf957579d084c5058\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\ANIK\.gradle\caches\transforms-3\932266a9d83e1f2cf957579d084c5058\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:10:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:11:5-68
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:11:22-65
+application
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:13:5-32:19
+MERGED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:13:5-32:19
+MERGED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:13:5-32:19
+MERGED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
+MERGED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
+MERGED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\41df1ae168f91019c8ea643f78699ed9\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\41df1ae168f91019c8ea643f78699ed9\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\03f2cea3c61a6509ffac8b29ab7a141f\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\03f2cea3c61a6509ffac8b29ab7a141f\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6f42b7c4f6593b6720349c2b327aeadc\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6f42b7c4f6593b6720349c2b327aeadc\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\539edcb1e24364ba59858b14c57d30b0\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\539edcb1e24364ba59858b14c57d30b0\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\86ef57b607e41f7ba1bf292ee6e6a225\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\86ef57b607e41f7ba1bf292ee6e6a225\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ANIK\.gradle\caches\transforms-3\24d84b4f5f11961ec01437302ef28b1b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ANIK\.gradle\caches\transforms-3\24d84b4f5f11961ec01437302ef28b1b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\0f5351c3d33d015b158a3e7511093112\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\0f5351c3d33d015b158a3e7511093112\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\c27387fc8b8dd84d83f00f3157c93cb5\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\c27387fc8b8dd84d83f00f3157c93cb5\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\7eab592117953120386b3a9d75caebd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\7eab592117953120386b3a9d75caebd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:11:5-15:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\c27387fc8b8dd84d83f00f3157c93cb5\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:15:7-39
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:15:7-39
+	tools:ignore
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:17:7-52
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:17:7-52
+	tools:targetApi
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:16:7-41
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:18:7-34
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:19:7-38
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:19:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:14:7-38
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:14:7-38
+activity#com.cehpoint.timepass.MainActivity
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:20:7-31:18
+	android:label
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:22:9-41
+	android:launchMode
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:24:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:25:9-51
+	android:exported
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:26:9-32
+	android:configChanges
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:23:9-118
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:29:23-70
+uses-sdk
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\e3d217a6614bb9d43ab7e5a70bd93a70\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\e3d217a6614bb9d43ab7e5a70bd93a70\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\544583cf068f03836bb4ed8208418dab\transformed\jetified-flipper-fresco-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\544583cf068f03836bb4ed8208418dab\transformed\jetified-flipper-fresco-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_auth] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_firestore] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_firestore] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:react-native-google-signin_google-signin] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-google-signin_google-signin] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webrtc] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-webrtc\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webrtc] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-webrtc\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.3] C:\Users\ANIK\.gradle\caches\transforms-3\d413042d1d0663aba1135e1de16a95b7\transformed\jetified-react-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.3] C:\Users\ANIK\.gradle\caches\transforms-3\d413042d1d0663aba1135e1de16a95b7\transformed\jetified-react-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.3] C:\Users\ANIK\.gradle\caches\transforms-3\e5c17a7e7a6f6d872e445b4365a32033\transformed\jetified-hermes-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.3] C:\Users\ANIK\.gradle\caches\transforms-3\e5c17a7e7a6f6d872e445b4365a32033\transformed\jetified-hermes-android-0.72.3-debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-sound] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-sound\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:react-native-sound] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-sound\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\41df1ae168f91019c8ea643f78699ed9\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\41df1ae168f91019c8ea643f78699ed9\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\700934fef40f5213293dababfaa57397\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\700934fef40f5213293dababfaa57397\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ANIK\.gradle\caches\transforms-3\97f58f567dfe077512518c924b6666cf\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\ANIK\.gradle\caches\transforms-3\97f58f567dfe077512518c924b6666cf\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\623ef545ac26ce63f31042fea396955c\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\623ef545ac26ce63f31042fea396955c\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\0996cbdfd102f644f14e95ff57717cfc\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\0996cbdfd102f644f14e95ff57717cfc\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\03f2cea3c61a6509ffac8b29ab7a141f\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\03f2cea3c61a6509ffac8b29ab7a141f\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\ANIK\.gradle\caches\transforms-3\42e4ca7bcdc1555a27aa6b84c80e8045\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\ANIK\.gradle\caches\transforms-3\42e4ca7bcdc1555a27aa6b84c80e8045\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\ANIK\.gradle\caches\transforms-3\4aa60574917425a61c8ef31398a20a3b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\ANIK\.gradle\caches\transforms-3\4aa60574917425a61c8ef31398a20a3b\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\c454a9c0227ab34d0fc8ee22903799ba\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\c454a9c0227ab34d0fc8ee22903799ba\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\1fd684d842628a90cd10f10fff241e7f\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\1fd684d842628a90cd10f10fff241e7f\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\ANIK\.gradle\caches\transforms-3\f7b4f4c44622cc68c4fd2d995dd7556b\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\ANIK\.gradle\caches\transforms-3\f7b4f4c44622cc68c4fd2d995dd7556b\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6f42b7c4f6593b6720349c2b327aeadc\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6f42b7c4f6593b6720349c2b327aeadc\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\539edcb1e24364ba59858b14c57d30b0\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\539edcb1e24364ba59858b14c57d30b0\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6ed57ec9c95b7473105a8eac92431f94\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\6ed57ec9c95b7473105a8eac92431f94\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\86ef57b607e41f7ba1bf292ee6e6a225\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\86ef57b607e41f7ba1bf292ee6e6a225\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ANIK\.gradle\caches\transforms-3\24d84b4f5f11961ec01437302ef28b1b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ANIK\.gradle\caches\transforms-3\24d84b4f5f11961ec01437302ef28b1b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\a78aa844e76c613b61967d27e5ebf3df\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\a78aa844e76c613b61967d27e5ebf3df\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ANIK\.gradle\caches\transforms-3\b66ccc96e0b19d4ffac18593158508df\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ANIK\.gradle\caches\transforms-3\b66ccc96e0b19d4ffac18593158508df\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\ANIK\.gradle\caches\transforms-3\3fc58413a63654da952a1630db7dbd77\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\ANIK\.gradle\caches\transforms-3\3fc58413a63654da952a1630db7dbd77\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\5fae5069d08d9e20121272558ca912fc\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\5fae5069d08d9e20121272558ca912fc\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\0f5351c3d33d015b158a3e7511093112\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\0f5351c3d33d015b158a3e7511093112\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\2499af5f47b65111aaf37cd4adde83f6\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\2499af5f47b65111aaf37cd4adde83f6\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\456fea879b7be6ee59de0fad83781995\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\456fea879b7be6ee59de0fad83781995\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\30433eac95a8e03072e5844706d1a5b3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\30433eac95a8e03072e5844706d1a5b3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\9c4a9d0313056964ee89e5fe6b42fdfb\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\9c4a9d0313056964ee89e5fe6b42fdfb\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\f9edcb92cb77b1d55b51c31b0e087eff\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\f9edcb92cb77b1d55b51c31b0e087eff\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\6b2e2a96814e48eccdb9787e5893c863\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\6b2e2a96814e48eccdb9787e5893c863\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\cb0f7670ab87d2fd5a401724fa81fbb6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\cb0f7670ab87d2fd5a401724fa81fbb6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\5e2d0f6606186133ff2b13f781024fad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\5e2d0f6606186133ff2b13f781024fad\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\fecb3cb4ed3d03386eedd13390340f00\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\fecb3cb4ed3d03386eedd13390340f00\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\a76706f1eee893b59ed768ca881f148d\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\a76706f1eee893b59ed768ca881f148d\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\14dd76e86f7f432e11f5edd00531dcd8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\14dd76e86f7f432e11f5edd00531dcd8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\3edef8ede495509961d8e06a3aeb9bd0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\3edef8ede495509961d8e06a3aeb9bd0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\8731d084f4964cd4084b38732d16379d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\8731d084f4964cd4084b38732d16379d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\de1b0fbc31e38572f445abe845c59369\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\de1b0fbc31e38572f445abe845c59369\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\c27387fc8b8dd84d83f00f3157c93cb5\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\c27387fc8b8dd84d83f00f3157c93cb5\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\115944650929fad545d259dca465a1f8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\115944650929fad545d259dca465a1f8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\69c315af4107974aa1837f56037d0973\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\69c315af4107974aa1837f56037d0973\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\1247af8f65f878a93876d82fc9009468\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\1247af8f65f878a93876d82fc9009468\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\bd617607152d7a3799a0ce012b2710e2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\bd617607152d7a3799a0ce012b2710e2\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\7c3b7199e48f26d61668183f25a6e03a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\7c3b7199e48f26d61668183f25a6e03a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\825ec96a6ae3bf8c8b28c098326b2e26\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\825ec96a6ae3bf8c8b28c098326b2e26\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\6626303304cbf455decad1b7ee1967ed\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\6626303304cbf455decad1b7ee1967ed\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\43176a2f4941989104de9552cba9dd3a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\43176a2f4941989104de9552cba9dd3a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\7eab592117953120386b3a9d75caebd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\7eab592117953120386b3a9d75caebd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\4d0fa801bcb238057513b7cb5897d0d4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\4d0fa801bcb238057513b7cb5897d0d4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\ac2aacb2417f67365dd8c2347bdad458\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ANIK\.gradle\caches\transforms-3\ac2aacb2417f67365dd8c2347bdad458\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\85682feb942b4ecdc996245e418ad0df\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\85682feb942b4ecdc996245e418ad0df\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\28abe0e1bdf336e66e5c3ab753afb25d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\28abe0e1bdf336e66e5c3ab753afb25d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] C:\Users\ANIK\.gradle\caches\transforms-3\52ed39710d4c5e27c99eea93ec0960cb\transformed\jetified-openssl-1.1.1l-beta-1\AndroidManifest.xml:2:2-70
+MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] C:\Users\ANIK\.gradle\caches\transforms-3\52ed39710d4c5e27c99eea93ec0960cb\transformed\jetified-openssl-1.1.1l-beta-1\AndroidManifest.xml:2:2-70
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\ANIK\.gradle\caches\transforms-3\b6d54f62898470ce1b4cb44bab7860c5\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\ANIK\.gradle\caches\transforms-3\b6d54f62898470ce1b4cb44bab7860c5\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\29cb8ab9b52044548f4b970cd7c8c384\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\29cb8ab9b52044548f4b970cd7c8c384\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\a6cee3fe74bf5a9ff0e284d54297c91b\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\a6cee3fe74bf5a9ff0e284d54297c91b\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\ac5a3bea1fc37bc87cb75af7c97eaf85\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\ac5a3bea1fc37bc87cb75af7c97eaf85\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\24e0e565b3ae8d76d00039b0ac7b088e\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\24e0e565b3ae8d76d00039b0ac7b088e\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\6a1c3bb7459353018623775db1db642c\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\6a1c3bb7459353018623775db1db642c\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\14b25c51de19223f937bb74f5492d88f\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\14b25c51de19223f937bb74f5492d88f\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\97696afe983eee729cd34530f6f39c68\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\97696afe983eee729cd34530f6f39c68\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\d92a3733a31ea992ef33fd78d68f3a6e\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\d92a3733a31ea992ef33fd78d68f3a6e\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\8eff372b4f74f31bd21a8866b9407e08\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\8eff372b4f74f31bd21a8866b9407e08\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\b7d0724bdfe5ac96962f178506c5a6c4\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\b7d0724bdfe5ac96962f178506c5a6c4\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\f96be219f2766f23ad2044ac04f7487c\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\f96be219f2766f23ad2044ac04f7487c\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\73628ebfa5bb715ee7cd159ee46f44f1\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\73628ebfa5bb715ee7cd159ee46f44f1\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\6437b8b5ce6ac8abf72a82506c4f5d3a\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\6437b8b5ce6ac8abf72a82506c4f5d3a\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\ANIK\.gradle\caches\transforms-3\932266a9d83e1f2cf957579d084c5058\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\ANIK\.gradle\caches\transforms-3\932266a9d83e1f2cf957579d084c5058\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\e125eee46a8febe3aaac8c4045774d98\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\e125eee46a8febe3aaac8c4045774d98\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\41c5b3e4da4b0c027485820cc4debd9d\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\41c5b3e4da4b0c027485820cc4debd9d\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.jitsi:webrtc:111.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\320804d9745946e9f2cf40cc484b9917\transformed\jetified-webrtc-111.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jitsi:webrtc:111.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\320804d9745946e9f2cf40cc484b9917\transformed\jetified-webrtc-111.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\fb4264381574d9866f8c03c07966d376\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\ANIK\.gradle\caches\transforms-3\fb4264381574d9866f8c03c07966d376\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\74624a99ffcdec55d0dd7e0e89475f8c\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\74624a99ffcdec55d0dd7e0e89475f8c\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\28149ef9338a3fbb0af8cb8a1e4a6786\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ANIK\.gradle\caches\transforms-3\28149ef9338a3fbb0af8cb8a1e4a6786\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+	android:value
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:20:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\0f5351c3d33d015b158a3e7511093112\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\0f5351c3d33d015b158a3e7511093112\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57

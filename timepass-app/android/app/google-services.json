@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262634270025",
+    "project_id": "timepass-c8588",
+    "storage_bucket": "timepass-c8588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262634270025:android:5fc8b9f05fdf3a64aafe98",
+        "android_client_info": {
+          "package_name": "com.cehpoint.timepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262634270025-5t6a803a4hgb20cgmav4r82uescionac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cehpoint.timepass",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "262634270025-uvqr0ht2p8meua3km4e859eevgq84jrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0q04IEK78SXO8OxPqK5nTmOqCT0HSxcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262634270025-nusghq71urjvrnt0186s2bv23og63s6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

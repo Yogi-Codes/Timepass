@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cehpoint.timepass.app-mergeDebugResources-35:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ANIK\\.gradle\\caches\\transforms-3\\03f2cea3c61a6509ffac8b29ab7a141f\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

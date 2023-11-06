@@ -1,0 +1,311 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cehpoint.timepass"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:10:5-78
+11-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:10:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:3:22-64
+13    <uses-permission android:name="com.google.android.gms.auth.permission.GOOGLE_SIGN_IN" />
+13-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:4:5-93
+13-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:4:22-90
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:5:5-79
+14-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:5:22-76
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:6:5-68
+15-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:6:22-65
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:7:5-65
+16-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:7:22-62
+17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+17-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:8:5-80
+17-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:8:22-77
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:9:5-71
+18-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:9:22-68
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:11:5-68
+19-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:11:22-65
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->[com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
+20-->[com.facebook.flipper:flipper:0.182.0] C:\Users\ANIK\.gradle\caches\transforms-3\ee518e4911bbd40f28d4058e13775234\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
+21
+22    <application
+22-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:13:5-32:19
+23        android:name="com.cehpoint.timepass.MainApplication"
+23-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:14:7-38
+24        android:allowBackup="false"
+24-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:18:7-34
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\c27387fc8b8dd84d83f00f3157c93cb5\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:16:7-41
+28        android:label="@string/app_name"
+28-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:15:7-39
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:17:7-52
+30        android:theme="@style/AppTheme"
+30-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:19:7-38
+31        android:usesCleartextTraffic="true" >
+31-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:8:9-44
+32        <activity
+32-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:11:9-111
+33            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+33-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:11:19-83
+34            android:exported="false" />
+34-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\debug\AndroidManifest.xml:11:84-108
+35        <activity
+35-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:20:7-31:18
+36            android:name="com.cehpoint.timepass.MainActivity"
+36-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:21:9-37
+37            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+37-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:23:9-118
+38            android:exported="true"
+38-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:26:9-32
+39            android:label="@string/app_name"
+39-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:22:9-41
+40            android:launchMode="singleTask"
+40-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:24:9-40
+41            android:windowSoftInputMode="adjustResize" >
+41-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:25:9-51
+42            <intent-filter>
+42-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:27:9-30:25
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:28:13-65
+43-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:28:21-62
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:29:13-73
+45-->C:\Users\ANIK\Desktop\Timepass\timepass-app\android\app\src\main\AndroidManifest.xml:29:23-70
+46            </intent-filter>
+47        </activity>
+48
+49        <meta-data
+49-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+50            android:name="app_data_collection_default_enabled"
+50-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+51            android:value="true" />
+51-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+52
+53        <service
+53-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+54            android:name="com.google.firebase.components.ComponentDiscoveryService"
+54-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+55            android:directBootAware="true"
+55-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+56            android:exported="false" >
+56-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+57            <meta-data
+57-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+58                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+58-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+60            <meta-data
+60-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
+61                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+61-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
+63            <meta-data
+63-->[com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:19:13-21:85
+64                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+64-->[com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:20:17-111
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.firebase:firebase-firestore:24.7.0] C:\Users\ANIK\.gradle\caches\transforms-3\5c6227b2933b7f145c0870f26d0f602b\transformed\jetified-firebase-firestore-24.7.0\AndroidManifest.xml:21:17-82
+66        </service>
+67
+68        <provider
+68-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+69            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+69-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+70            android:authorities="com.cehpoint.timepass.reactnativefirebaseappinitprovider"
+70-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+71            android:exported="false"
+71-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+72            android:initOrder="99" />
+72-->[:react-native-firebase_app] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+73        <provider
+73-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+74            android:name="com.imagepicker.ImagePickerProvider"
+74-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+75            android:authorities="com.cehpoint.timepass.imagepickerprovider"
+75-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+76            android:exported="false"
+76-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+77            android:grantUriPermissions="true" >
+77-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+78            <meta-data
+78-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:70
+79                android:name="android.support.FILE_PROVIDER_PATHS"
+79-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+80                android:resource="@xml/imagepicker_provider_paths" />
+80-->[:react-native-image-picker] C:\Users\ANIK\Desktop\Timepass\timepass-app\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
+81        </provider>
+82
+83        <activity
+83-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
+84            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+84-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
+85            android:excludeFromRecents="true"
+85-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
+86            android:exported="true"
+86-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
+87            android:launchMode="singleTask"
+87-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+88-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
+89            <intent-filter>
+89-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
+90                <action android:name="android.intent.action.VIEW" />
+90-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+90-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+91
+92                <category android:name="android.intent.category.DEFAULT" />
+92-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+92-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+93                <category android:name="android.intent.category.BROWSABLE" />
+93-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+93-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+94
+95                <data
+95-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+96                    android:host="firebase.auth"
+96-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+97                    android:path="/"
+97-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+98                    android:scheme="genericidp" />
+98-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+99            </intent-filter>
+100        </activity>
+101        <activity
+101-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
+102            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+102-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
+103            android:excludeFromRecents="true"
+103-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
+104            android:exported="true"
+104-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
+105            android:launchMode="singleTask"
+105-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+106-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
+107            <intent-filter>
+107-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
+108                <action android:name="android.intent.action.VIEW" />
+108-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+108-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+109
+110                <category android:name="android.intent.category.DEFAULT" />
+110-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+110-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+111                <category android:name="android.intent.category.BROWSABLE" />
+111-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+111-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+112
+113                <data
+113-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+114                    android:host="firebase.auth"
+114-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+115                    android:path="/"
+115-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+116                    android:scheme="recaptcha" />
+116-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\ANIK\.gradle\caches\transforms-3\26ed3634786f6dc8f8df33c949aee950\transformed\jetified-firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+117            </intent-filter>
+118        </activity>
+119
+120        <provider
+120-->[com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+121            android:name="com.google.firebase.provider.FirebaseInitProvider"
+121-->[com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+122            android:authorities="com.cehpoint.timepass.firebaseinitprovider"
+122-->[com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+123            android:directBootAware="true"
+123-->[com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+124            android:exported="false"
+124-->[com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+125            android:initOrder="100" />
+125-->[com.google.firebase:firebase-common:20.3.3] C:\Users\ANIK\.gradle\caches\transforms-3\a495cccff92bf4fae0cb274353c95611\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+126
+127        <activity
+127-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:23:9-27:75
+128            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+128-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:24:13-93
+129            android:excludeFromRecents="true"
+129-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:25:13-46
+130            android:exported="false"
+130-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:26:13-37
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+131-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:27:13-72
+132        <!--
+133            Service handling Google Sign-In user revocation. For apps that do not integrate with
+134            Google Sign-In, this service will never be started.
+135        -->
+136        <service
+136-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:33:9-37:51
+137            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+137-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:34:13-89
+138            android:exported="true"
+138-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:35:13-36
+139            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+139-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:36:13-107
+140            android:visibleToInstantApps="true" />
+140-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\ANIK\.gradle\caches\transforms-3\201728f21af51e5a120da1a3952c6ec7\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:37:13-48
+141
+142        <activity
+142-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+143            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+143-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+144            android:exported="false"
+144-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+145            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+145-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ANIK\.gradle\caches\transforms-3\46c9e7232d4b89f945f58c71bff790ac\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+146
+147        <meta-data
+147-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+148            android:name="com.google.android.gms.version"
+148-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+149            android:value="@integer/google_play_services_version" />
+149-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\ANIK\.gradle\caches\transforms-3\d0706cb5accb40470a174a772521061d\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+150
+151        <provider
+151-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+152            android:name="androidx.startup.InitializationProvider"
+152-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+153            android:authorities="com.cehpoint.timepass.androidx-startup"
+153-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+154            android:exported="false" >
+154-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+155            <meta-data
+155-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+156                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+156-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+157                android:value="androidx.startup" />
+157-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ANIK\.gradle\caches\transforms-3\182b28676110771bc15253177de438fc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+158            <meta-data
+158-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+159                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+159-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+160                android:value="androidx.startup" />
+160-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ANIK\.gradle\caches\transforms-3\1023673be6c723349a3c0e4727891091\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+161        </provider>
+162
+163        <meta-data
+163-->[com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+164            android:name="com.facebook.soloader.enabled"
+164-->[com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+165            android:value="false" />
+165-->[com.facebook.soloader:soloader:0.10.5] C:\Users\ANIK\.gradle\caches\transforms-3\7c73fa8c65915630cef09cc367728895\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+166    </application>
+167
+168</manifest>
